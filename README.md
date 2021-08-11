@@ -1,3 +1,14 @@
+# Backend JSON for Bob Ross Art Gallery app
+#
+frontend can be found here https://github.com/Alex-A-B/br-gallery-phase2-project
+
+app hosted on Netlify/ backend Heroku
+
+Thanks and have a nice day.
+
+#
+
+
 # Deploy `json-server` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
